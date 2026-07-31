@@ -18,5 +18,3 @@ Soy un Ingeniero y Arquitecto de Software radicado en Morelia, México. Me espec
 
 ## 🌎 Contacto e Información Adicional
 
-*   **Ubicación:** Morelia, Michoacán, México.
-*   **Idiomas:** Español (Nativo), Inglés (En perfeccionamiento activo).
