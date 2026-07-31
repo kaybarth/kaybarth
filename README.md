@@ -5,7 +5,7 @@ Soy un Ingeniero y Arquitecto de Software radicado en Morelia, México. Me espec
 
 ## 🛠 Tecnologías y Herramientas
 
-*   **Backend & Frameworks:** Node.js, CakePHP
+*   **Backend & Frameworks:** Node.js, CakePHP, Ionic
 *   **DevOps & Infraestructura:** Docker, Jenkins, Caddy, flujos CI/CD
 *   **Herramientas & Control de Versiones:** Git, Bitbucket
 *   **Integraciones & Autenticación:** Auth0, pasarelas de pago, APIs RESTful
