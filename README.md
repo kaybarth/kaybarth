@@ -1,22 +1,22 @@
-# 👋 ¡Hola! Soy Kareem Sanchez
+# Kareem Missael Aybarth Sanchez
+### Lead Software Engineer & Architect
 
-Soy un ingeniero de software con experiencia en desarrollo backend y administración de bases de datos. Me especializo en **Django, .NET, SQL Server, y Bash**, y recientemente he estado explorando **CrewAI y despliegue en Linux**.  
+Soy un Ingeniero y Arquitecto de Software radicado en Morelia, México. Me especializo en el desarrollo backend, aplicaciones móviles, arquitectura de sistemas y automatización de despliegues. Me apasiona construir soluciones eficientes y escalables, gestionando el ciclo completo de vida del software, desde la creación de MVPs hasta la administración de infraestructura.
 
-## 🚀 ¿Qué hago?  
-- Desarrollo APIs robustas con Django y FastAPI.  
-- Administración y optimización de bases de datos SQL Server.  
-- Automatización y scripting con Bash y PowerShell.  
-- Frontend ocasional con Vue.js y Next.js.  
+## 🛠 Tecnologías y Herramientas
 
-## 🔥 Intereses actuales  
-- Integración de IA en proyectos (CrewAI, LLMs).
-- Mejores prácticas y arquitectura limpia en desarrollo backend.  
-- Seguridad en Linux y DevOps.
+*   **Backend & Frameworks:** Node.js, CakePHP
+*   **DevOps & Infraestructura:** Docker, Jenkins, Caddy, flujos CI/CD
+*   **Herramientas & Control de Versiones:** Git, Bitbucket
+*   **Integraciones & Autenticación:** Auth0, pasarelas de pago, APIs RESTful
 
-## 📫 Contáctame  
-Si tienes un proyecto interesante o solo quieres charlar sobre código, puedes encontrarme en:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KareemSanchez-blue?logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/kareemsanchez)  
-📩 **Correo:** [kareem_sanchez@outlook.com](mailto:kareem_sanchez@outlook.com)  
+## 💻 Lo que hago
 
+*   **Desarrollo Móvil y Backend:** Creación y mantenimiento de aplicaciones integrales, implementando lógica de negocios compleja, sistemas de comisiones dinámicas y notificaciones push.
+*   **Arquitectura de Software:** Diseño de entornos *self-hosted*, configuración avanzada de contenedores y proxies inversos para garantizar la correcta comunicación en red.
+*   **Prototipado y MVPs:** Desarrollo ágil de productos mínimos viables, incluyendo aplicaciones web y bots conversacionales con integraciones de IA.
 
-_"Automatiza todo lo que puedas y haz que el código trabaje por ti."_ 🚀  
+## 🌎 Contacto e Información Adicional
+
+*   **Ubicación:** Morelia, Michoacán, México.
+*   **Idiomas:** Español (Nativo), Inglés (En perfeccionamiento activo).
